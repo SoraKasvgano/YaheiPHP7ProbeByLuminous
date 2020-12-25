@@ -12,3 +12,9 @@ backup for yaheiphp7 probe by Luminous https://luotianyi.vc/1830.html
 # 简洁Light版
 去除了IP、探针显示以及所有的主动测试功能，挂在服务器上不用太担心被刷……
 [demo](https://tz.120712.xyz/%E7%AE%80%E7%89%88/yhtz-light.php)
+
+# 自用yh-ip-nosql-nospeed-nomail.php
+另一个雅黑版本，从网上找到的支持PHP7 ipV6,自己 去掉了sql检测 计算性能检测 网速测速 mail测试
+
+# 自用yh-ip-sql-speed-mail.php
+原版本，支持php7 sql检测 计算性能检测 网速测速 mail测试
