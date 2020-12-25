@@ -17,4 +17,4 @@ backup for yaheiphp7 probe by Luminous https://luotianyi.vc/1830.html
 另一个雅黑版本，从网上找到的支持PHP7 ipV6,自己 去掉了sql检测 计算性能检测 网速测速 mail测试
 
 # 自用yh-ip-sql-speed-mail.php
-原版本，支持php7 sql检测 计算性能检测 网速测速 mail测试
+原版本，支持php7 ipv6 sql检测 计算性能检测 网速测速 mail测试
